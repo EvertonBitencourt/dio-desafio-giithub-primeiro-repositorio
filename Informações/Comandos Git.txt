@@ -1,0 +1,7 @@
+Git init
+Git add *
+Git commit -m "Frase descrição"
+Git push
+Git pull
+Git clone
+Git status
